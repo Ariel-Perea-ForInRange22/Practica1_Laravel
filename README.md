@@ -120,11 +120,10 @@ El controlador procesa la solicitud y retorna la vista correspondiente con los d
 ## 📸 Capturas de Pantalla
 
 ### Ruta /bienvenida
-![Captura de /bienvenida](screenshots/bienvenida.png)
+![Captura de /bienvenida](screenshots/image.png)
 
 ### Ruta /saludo/{nombre}
-![Captura de /saludo/Carlos](screenshots/saludo-carlos.png)
-![Captura de /saludo/Maria](screenshots/saludo-maria.png)
+![Captura de /saludo/nombre](screenshots/nombre_image.png)
 
 ## 🤔 Preguntas de Reflexión
 
